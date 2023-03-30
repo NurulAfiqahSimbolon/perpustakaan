@@ -1,0 +1,9 @@
+/* simpan dengan nama belajar.css */
+h1{
+    border:2px dotted rgb(238, 150, 67);
+    text-align:center;
+}
+p{
+    text=decoration:underline;
+    font-weight:bold;
+}

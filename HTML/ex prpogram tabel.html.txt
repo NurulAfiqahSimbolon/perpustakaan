@@ -1,0 +1,23 @@
+<!DOCTYPE HTML>
+<html> <head>
+    <title> Data Anggota</title> </head>
+<body>
+    <table align="center" border='1'>
+        <thead>
+            <tr>
+                <th width='100'>Nama</th> <th width='200'>Telp</th> <th width='300'>Email</th> </tr>
+        </thead>
+        <tbody>
+            <tr bgcolor="lightgrey">
+                <td>Fika</td> <td>081376888653</td> <td bgcolor='pink'>rnbwws@gmail.com</td>
+            </tr>
+            <tr>
+                <td>sari</td> <td>082361986930</td> <td align='right'>sarii63782@gmail.com</td>
+            </tr>
+            <tr>
+                <td>nia</td> <td>085371581550</td> <td>niaimas@gmail.com</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>
